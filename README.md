@@ -37,7 +37,7 @@ Clone the repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/task-manager.git
+git clone  https://github.com/reagan203/task-manager
 Navigate to the project directory
 
 bash
